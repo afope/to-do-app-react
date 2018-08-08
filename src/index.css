@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,500');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400');
+
+
+
+* {
+    box-sizing:border-box;
+}
+
+html {
+    height:100%;
+}
+
+body {
+    min-width: 100%;
+    min-height: 100%;
+    background-color: #6A66E7;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #808080;
+}
+
+*:focus {
+    outline: none;
+}

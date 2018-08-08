@@ -1,0 +1,42 @@
+.FormContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Questrial', sans-serif;
+}
+.FormContainer form {
+    background-color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+     width: 600px;
+     height: 650px;
+     padding: 20px;
+ }
+
+.FormContainer form h3 {
+    color: #6A66E7;
+}
+
+ form input {
+     height: 40px;
+     width: 350px;
+     padding: 30px;
+     box-shadow: none;
+     margin: 30px;
+     font-size: 25px;
+ }
+
+ .FormContainer form p {
+     margin-left: 150px;
+     margin-right: 150px;
+     font-family: 'Merriweather', serif;
+     font-weight: 300;
+     font-size: 18px;
+     line-height: 30px;
+ }
+.FormContainer form button {
+     margin: 30px;
+     padding: 10px;
+    font-size: 25px;
+ }
